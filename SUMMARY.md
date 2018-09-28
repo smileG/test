@@ -1,13 +1,17 @@
-# Summary
+# Table of contents
 
-### Part I
 * [Introduction](README.md)
 
-### Part II
-* [使用指南](sos/TEST.md)
-    * [插件问题](sos/SECTION1.md)
-        * [切图问题](sos/CUT.md)
-            * [4问题](sos/TEST22.md)
-                * [5问题](sos/TEST23.md)
-    * [其他问题](sos/OTHER.md)
-    
+
+## Part I
+
+* [Introduction](part-i/readme.md)
+
+## Part II
+
+* [使用指南](part-ii/test/README.md)
+  * [插件问题](part-ii/test/section1/README.md)
+    * [切图问题](part-ii/test/section1/cut.md)
+  * [其他问题](part-ii/test/other.md)
+
+
