@@ -2,10 +2,9 @@
 
 * [Introduction](README.md)
 
-
 ## Part I
 
-* [Introduction](part-i/readme.md)
+* [Introduction](part-i/part-i.md)
 
 ## Part II
 
@@ -13,5 +12,4 @@
   * [插件问题](part-ii/test/section1/README.md)
     * [切图问题](part-ii/test/section1/cut.md)
   * [其他问题](part-ii/test/other.md)
-
 
